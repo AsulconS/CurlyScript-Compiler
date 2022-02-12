@@ -1,5 +1,4 @@
-# ccurly
-## CurlyScript Compiler from Curly Engine
+# ccurly - CurlyScript Compiler from Curly Engine
 ---
 
 ## What is CurlyScript?
